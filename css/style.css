@@ -1,0 +1,173 @@
+*{
+	font-family: arial, helvetica, serif;
+	margin: 0;
+	padding: 0;
+
+}
+
+#logounb{
+	margin: 12px 15px 0px 25px;
+	float: right;
+}
+#logoinsoft{
+	margin-left:400px;
+	margin-top:5px;
+	float: right;
+}
+#facebookicon{
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+#twittericon{
+	margin-bottom: 10px;
+}
+
+header{
+		width:100%;
+		height: 65px;
+		background-color: ;
+		border-bottom:solid 2px;
+		
+
+}
+
+body{
+		font-family:Arial;
+		font-size:16px;
+}
+
+#logojiu{
+	text-align: center;
+	margin-bottom: 20px;
+	border-bottom: solid 2px #000;
+	
+}
+
+
+
+#imagem1{
+	position:relative;
+	left:335px;
+	margin-bottom:-200px;
+
+}
+#titulo1{
+	text-align: center;
+}
+#texto1 {
+	width:600px ;
+	height:200px;
+	position:relative;
+	left: 700px;
+	font-size:20px;
+	
+}
+
+
+#imagem2{
+	position:relative;
+	left:900px;
+	margin-top: -200px;
+}
+#titulo2{
+	text-align: center;
+}
+#texto2 {
+	width: 600px;
+	height: 200px;
+	background: ;
+	position:relative;
+	left: 100px;
+	font-size:20px;
+}
+
+
+#imagem3{
+	position:relative;
+	left:150px;
+	margin-bottom:-200px;
+}
+#titulo3{
+	text-align: center;
+}
+#facebook{
+	position:relative;
+	left: 230px;
+	bottom: 40px;
+	float:0;
+}
+#texto3 {
+	width:600px ;
+	height: 200px;
+	position:relative;
+	left: 700px;
+	font-size:20px;
+}
+
+#galeria {
+	width: 100%;
+	height: 200px;
+	background: ;
+	border-bottom:solid 2px;
+	border-top:solid 2px;
+	position: relative;
+}
+#jiu1{
+	z-index: 4;
+	position: absolute;
+	margin-left:75px;
+}
+#atleticajiu{
+	z-index: 3;
+	position: absolute;
+	margin-left: 375px;
+}
+#jiu2{
+	z-index: 2;
+	position: absolute;
+	margin-left: 675px;
+}
+#patrocinadorjiu{
+	z-index: 1;
+	position: absolute;
+	margin-left: 975px; 
+}
+#jiu1:hover{
+	z-index: 5;
+	height: 300px;
+	width: 450px;
+	-webkit-transition: all 0.5s ease-in-out;
+	transition: all .5s ease-in-out;
+}
+
+#atleticajiu:hover{
+	z-index: 5;
+	height: 300px;
+	width: 450px;
+	-webkit-transition: all 0.5s ease-in-out;
+	transition: all .5s ease-in-out;
+}
+
+#jiu2:hover{
+	z-index: 5;
+	height: 300px;
+	width: 450px;
+	-webkit-transition: all 0.5s ease-in-out;
+	transition: all .5s ease-in-out;
+
+}
+#patrocinadorjiu:hover{
+	
+	z-index: 5;
+	height: 300px;
+	width: 450px;
+	-webkit-transition: all 0.5s ease-in-out;
+	transition: all .5s ease-in-out;
+
+}
+footer{
+	border-top: solid 2px #aaa;
+	text-align: center;
+	padding: 30px;
+}
